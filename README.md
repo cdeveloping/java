@@ -32,4 +32,20 @@ En este repositorio se encuentran los archivos del curso de Java desde cero, int
 </ul>
 
 
+<hr>
+
+## Variables en Java
+
+<h3>¿Qué es una variable en Java?</h3>
+<p>Una variable en Java es un espacio que reservamos en la memoria para almacenar un valor, que podrá cambiar y ser modificado durante la ejecución del programa.</p>
+
+<h3>¿Cómo se crea una variable en Java?</h3>
+<p>Para crear una variable en java deberemos especificar el tipo de dato que vamos a almacenar seguido del nombre de la variable. Ejemplo: string nombre;</p>
+
+<h3>¿Qué es iniciar una variable?</h3>
+<p>Iniciar una variable es asignarle un valor a la misma, por ejemplo string nombre = "Carlos";</p>
+
+
+
+
 
