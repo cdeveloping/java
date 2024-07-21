@@ -45,6 +45,64 @@ En este repositorio se encuentran los archivos del curso de Java desde cero, int
 <h3>¿Qué es iniciar una variable?</h3>
 <p>Iniciar una variable es asignarle un valor a la misma, por ejemplo string nombre = "Carlos";</p>
 
+## Constantes en Java
+
+<h3>¿Qué es una constante?</h3>
+<p>Al igual que en las variables, una constante es un espacio en memoria que vamos a reservar para almacenar de manera temporal un valor determinado.</p>
+<p>La diferencia con las variables es que este valor será fijo, y no se podrá modificar durante el tiempo de ejecución.</p>
+
+<h3>¿Cómo se declara una constante en Java</h3>
+<p>Para declarar una constante en Java, deberemos utilizar la palabra reservada "FINAL".</p>
+<p>La estructura básica de una constante sería la siguiente: final + tipo de datos + nombre de la constante.</p>
+<p>final string nombre = "Carlos"; </p>
+
+
+## Comentarios en Java
+<p>Los comentarios en Java son pequeñas ayudas que podemos dejar dentro de nuestro código y que nos permiten en caso de trabajar en equipo, que otros programadores puedan entender ciertas partes de nuestro código de una manera más fácil.</p>
+<p>Podemos dejar diferentes tipos de código y se introducen de diferentes maneras.</p>
+<ul>
+    <li>Una sola linea.</li>
+    <p> Para introducir un comentario de una solo linea usaremos dos barras // todo lo que pongamos detrás de estas barras y siempre dentro de esa misma lina de código, el compilador no lo tendrá en cuenta y nos producirar un error.</p>
+    <li>Múltiples Lineas</li>
+    <p>En el caso de los comentarios de más de una linea tenemos dos opciones, una sería usando barra invertida y asterisco tanto al principio, como al final del comentario /* comentario */.</p>
+    <p>También tenemos otro tipo de comentario multilinea que se muestra de una manera parecida /** Comentario **/, cualquiera de estos dos formatos es igual de valido.</p>
+
+
+## Operadores en Java
+<p>Los operadores en Java nos ayudan a realizar diferentes operaciones, los podemos dividir en varios grupos:</p>
+<ul>
+    <li>Aritméticos:</li>
+        <ul>
+            <li>Suma: +</li>
+            <li>Resta: - </li>
+            <li>Multiplicación: *</li>
+            <li>División: /</li>
+        </ul>
+    <li>Lógicos, relacionales y Booleanos</li>
+        <ul>
+            <li>Mayor que: >. </li>
+            <li>Menor que: <. </li>
+            <li>Mayor o menor que: "<.> </li>
+            <li>Distinto que: !=. </li>
+            <li>Igual que: ==. </li>
+            <li>Y lógico: &&.</li>
+            <li>O lógico: ||.</li>
+        </ul>
+    <li>Incremento y Decremento:</li>
+        <ul>
+            <li>Incremento: ++.</li>
+            <li>Decremento: --.</li>
+            <li>Incremento: += nº.</li>
+            <li>Decremento: -= nº.</li>
+        </ul>
+    <li>Concatenación:</li>
+        <ul>
+            <li>Une o concatena: +.</li>
+        </ul>
+</ul>
+
+
+
 
 
 
